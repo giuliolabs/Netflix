@@ -255,7 +255,6 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 ---
 
 ## Author - Giulio Dajani
-
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles.
 
 ---
@@ -266,4 +265,4 @@ If you would like to contribute to this project, feel free to fork the repositor
 ---
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
